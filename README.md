@@ -1,6 +1,6 @@
-# workshop_one | Sofka
+# workshop_one
 
-Whorshop sofka Canteras 2
+Whorshop 
 
 # Aspectos
 ***
